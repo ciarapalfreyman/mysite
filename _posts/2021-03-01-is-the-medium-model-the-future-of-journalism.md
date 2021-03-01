@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is the Medium model the future of journalism?
+title: Is the Medium model the future of blogging?
 date: 2021-03-01T16:55:17.517Z
 header_feature_image: ../uploads/fullsizeoutput_2e36.jpeg
 title_color: "#ffffff"
