@@ -3,7 +3,7 @@ title: "Easy Vegan Breakfasts "
 subtitle: "Fuel your day with these hassle plant-based recipes "
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
-show: false
+show: true
 layout: recipeshome
 ---
 This will be the home page for your recipes.
