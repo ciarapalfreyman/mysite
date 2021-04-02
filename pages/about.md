@@ -1,20 +1,20 @@
 ---
-layout: page
+header_feature_image: /uploads/log.jpg
 title: About
+subtitle: All about me and my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+Hi!
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+My name is Ciara and I am a final year Publishing Student as Oxford Brookes Univeristy. 
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+I have created this blog to maintain and grow my writing skills and using this space as a place to frrely express my thoughts and opinions! 
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+I would describe myself as a huge vegan food enthusiast and have been vegan for almost 3 years now. It has really changed my perspective on cooking, animal rights, envirnomental issues and digestive health, which I will be sharing more about on this site! 
