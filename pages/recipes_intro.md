@@ -1,5 +1,5 @@
 ---
-title: "Easy Vegan Breakfasts "
+title: Easy Vegan Breakfast
 subtitle: "Fuel your day with these hassle plant-based recipes "
 permalink: /recipes/
 date: 2021-04-02T17:50:31.663Z
