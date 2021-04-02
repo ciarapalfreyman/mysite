@@ -6,9 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-Suppose you have to choose; breakfast, lunch or dinner. You can only keep one of those eating moment in your life. The other two have to go. What would you pick? Will you keep breakfast? Or if your life not complete without dinner? Let’s be honest, it’s a weird choice to make and I am very fondly attached to all three moments, but if I had to choose? I fear I would have to go for dinner. I think. That will just give me the most options. Although never having breakfast again?? O horror!! But like I said; it’s an odd thing to ask. And why am I asking you might wonder. Well I promised you I would give you another recipe from the book Deliciously Ella and it is a breakfast. A really good one too, since I’ve been eating it almost every day since I discovered it in the book. I think it was also the first recipe that got a sticky note to it. What makes it so special is the fact that you cook the banana with the oats. So it completely melts into the porridge and the added almond butter is just so good! I top it with my own nut and seed mix and some fresh fruit and ready to go!
-
-
+What makes this recipe so special is the fact that you cook the banana with the oats. So it completely melts into the porridge and the added almond butter is just so good! I top it with my own nut and seed mix and some fresh fruit and ready to go!
 
 ![Placeholder](../uploads/coconut-porridge-cover.jpg)
 
