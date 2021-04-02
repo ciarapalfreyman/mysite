@@ -1,5 +1,5 @@
 ---
-title: Almond Blueberry Bites
+title: Almond Blueberry Bites by Beaming Baker
 order: 4
 date: 2019-10-19
 layout: recipe
