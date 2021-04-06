@@ -1,7 +1,9 @@
 ---
-layout: recipeslisting
-title: This is the title
+title: Easy Vegan Breakfast
 permalink: /allrecipes
-published: true
+date: 2021-04-06T10:33:15.639Z
 show: false
+layout: recipeslisting
+published: true
 ---
+See all recipes here
